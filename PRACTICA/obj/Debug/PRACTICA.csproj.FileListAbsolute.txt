@@ -1,0 +1,11 @@
+C:\Users\drodr\source\repos\PRACTICA\PRACTICA\bin\Debug\PRACTICA.exe.config
+C:\Users\drodr\source\repos\PRACTICA\PRACTICA\bin\Debug\PRACTICA.exe
+C:\Users\drodr\source\repos\PRACTICA\PRACTICA\bin\Debug\PRACTICA.pdb
+C:\Users\drodr\source\repos\PRACTICA\PRACTICA\obj\Debug\PRACTICA.csproj.AssemblyReference.cache
+C:\Users\drodr\source\repos\PRACTICA\PRACTICA\obj\Debug\PRACTICA.csproj.SuggestedBindingRedirects.cache
+C:\Users\drodr\source\repos\PRACTICA\PRACTICA\obj\Debug\PRACTICA.Form1.resources
+C:\Users\drodr\source\repos\PRACTICA\PRACTICA\obj\Debug\PRACTICA.Properties.Resources.resources
+C:\Users\drodr\source\repos\PRACTICA\PRACTICA\obj\Debug\PRACTICA.csproj.GenerateResource.cache
+C:\Users\drodr\source\repos\PRACTICA\PRACTICA\obj\Debug\PRACTICA.csproj.CoreCompileInputs.cache
+C:\Users\drodr\source\repos\PRACTICA\PRACTICA\obj\Debug\PRACTICA.exe
+C:\Users\drodr\source\repos\PRACTICA\PRACTICA\obj\Debug\PRACTICA.pdb
